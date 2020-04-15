@@ -1,5 +1,5 @@
 
-![image](https://drive.google.com/uc?export=view&id=1uslmVsmM71-y1WIZJrUvvdZ9G6QaqlWn)
+![image](https://images.unsplash.com/photo-1552879890-3a06dd3a06c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80)
 
 # About DeepLens
 
@@ -17,6 +17,8 @@ https://docs.aws.amazon.com/deeplens/latest/dg/what-is-deeplens.html
 ## Community Projects
 https://aws.amazon.com/deeplens/community-projects/
 Including Hackatons
+
+
 
 
 # Potential AWS Courses
